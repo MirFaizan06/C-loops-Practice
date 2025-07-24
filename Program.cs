@@ -10,9 +10,11 @@ namespace loop2
     {
         static void Main(string[] args)
         {
+
              
             //// edit from shayan 
-               
+            /// edit was done by faizan
+
             Console.WriteLine("----7 Loop Based Programs----\n");
 
             Console.WriteLine("Instructions (please read them carefully): ");
