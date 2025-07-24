@@ -12,7 +12,7 @@ namespace loop2
         {
 
             //// edit from shayan 
-
+              
             Console.WriteLine("----7 Loop Based Programs----\n");
 
             Console.WriteLine("Instructions (please read them carefully): ");
