@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,9 @@ namespace loop2
     {
         static void Main(string[] args)
         {
+             
+            //// edit from shayan 
+               
             Console.WriteLine("----7 Loop Based Programs----\n");
 
             Console.WriteLine("Instructions (please read them carefully): ");
