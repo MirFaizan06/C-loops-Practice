@@ -10,7 +10,7 @@ namespace loop2
     {
         static void Main(string[] args)
         {
-
+             
             //// edit from shayan 
               
             Console.WriteLine("----7 Loop Based Programs----\n");
